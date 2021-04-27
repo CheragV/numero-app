@@ -1,9 +1,9 @@
 {
-  "name": "numero-app",
-  "displayName": "numero-app",
+  "name": "Numerology Calculator",
+  "displayName": "Numerology Calculator",
   "expo": {
-    "name": "numero-app",
-    "slug": "numero-app",
+    "name": "Numerology Calculator",
+    "slug": "Numerology Calculator",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
